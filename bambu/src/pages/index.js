@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import ImagenHome from "../../public/Assets/Landing.jpg";
 import Image from 'next/image';
-import { Carrousel } from './Components/Carrousel/Carrousel';
+import Carrousel from './Components/Carrousel/Carrousel';
 import Loading from './Components/Loading/loading';
 import TestimoniosCarousel from './Components/CarrouselTestimonios/CarrouselTestimonios';
 
