@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from '../../../public/Assets/Assets/Bambúf.jpg';
+import logo from '../../../public/Assets/Bambúf.jpg';
 import Head from 'next/head';
 import { useState } from 'react';
 import { useRouter } from 'next/router'; // Importa useRouter para obtener la ruta actual
