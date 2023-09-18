@@ -6,7 +6,7 @@ import duracion from "../../Assets/duracion.gif";
 import estrategia from "../../Assets/estrategia.gif";
 import inversion from "../../Assets/inversion.gif";
 import resultados from "../../Assets/resultados.gif";
-import ConsultancyCard from "@/Components/ConsultancyCard/ConsultancyCard";
+import ConsultancyCard from "../Components/ConsultancyCard/ConsultancyCard";
 
 import styles from "./consultorias.module.css";
 
