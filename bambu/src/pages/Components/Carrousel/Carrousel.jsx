@@ -1,4 +1,4 @@
-import { images } from '@/Assets/Logos_Empresas/index'
+import { images } from '../../Assets/Logos_Empresas/index'
 import Image from 'next/image'
 import Style from './Carrousel.module.css'
 export const Carrousel = () => {
