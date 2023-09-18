@@ -1,9 +1,9 @@
 import React from 'react';
-import { texts, items } from '../Assets/about/aboutText';
+import { texts, items } from '../../../public/Assets/about/aboutText';
 import Card from '../Components/CardsAbout/Card';
-import imageDaniel from '../Assets/about/daniel.png';
-import imageGabo from '../Assets/about/gabo.png';
-import equipo from '../Assets/about/equipo.jpg';
+import imageDaniel from '../../../public/Assets/about/daniel.png';
+import imageGabo from '../../../public/Assets/about/gabo.png';
+import equipo from '../../../public/Assets/about/equipo.jpg';
 import Image from 'next/image';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
